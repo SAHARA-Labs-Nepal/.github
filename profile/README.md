@@ -10,13 +10,13 @@
   <p>
     <a href="https://sahara-labs-nepal.github.io/">Website</a>
     ·
-    <a href="https://sahara-labs-nepal.github.io/solutions/">Solutions</a>
+    <a href="https://sahara-labs-nepal.github.io/#products">Solutions</a>
     ·
-    <a href="https://sahara-labs-nepal.github.io/security/">Security</a>
+    <a href="https://sahara-labs-nepal.github.io/#approach">Security</a>
     ·
-    <a href="https://sahara-labs-nepal.github.io/docs/">Documentation</a>
+    <a href="https://sahara-labs-nepal.github.io/#technology">Documentation</a>
     ·
-    <a href="https://sahara-labs-nepal.github.io/contact/">Contact</a>
+    <a href="https://sahara-labs-nepal.github.io/#contact">Contact</a>
   </p>
 </div>
 
@@ -76,7 +76,7 @@ Our core product repositories remain private while the accounting foundations, a
 
 Interested in product pilots, integrations, accounting-workflow research, or partnerships?
 
-**[Contact SAHARA Labs](https://sahara-labs-nepal.github.io/contact/)**
+**[Contact SAHARA Labs](https://sahara-labs-nepal.github.io/#contact)**
 
 <div align="center">
   <sub>Made in Nepal 🇳🇵 · Engineered for dependable work everywhere.</sub>
