@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/327008574?s=160&v=4" width="120" alt="SAHARA Labs Nepal logo" />
+  <img src="https://sahara-labs-nepal.github.io/assets/logo-mark.svg" width="120" alt="SAHARA Labs Nepal logo" />
 
   <h1>SAHARA LABS</h1>
 
